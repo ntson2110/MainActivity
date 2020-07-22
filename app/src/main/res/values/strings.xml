@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="t_n">Tên</string>
+    <string name="ok">OK</string>
+    <string name="nh_p_v_o_b_n_d_i">Nhập vào ô bên dưới</string>
+</resources>
